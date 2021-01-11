@@ -1,0 +1,1 @@
+window.location.replace("https://felix-a79fe.web.app/");
